@@ -2,9 +2,9 @@
 
 A powerful Streamlit-based web application that provides comprehensive analysis and visualization of GitHub profiles and repositories.
 
-## Live Link
+## 📺 Live Link
 
-![Github Profile Analyzer]()
+[Github Profile Analyzer](https://git-profile-analyzer-osamabinadnan.streamlit.app/)
 
 ## 🌟 Features
 
